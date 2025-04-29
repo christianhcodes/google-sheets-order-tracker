@@ -1,19 +1,27 @@
-# Google Sheets Order Tracker
+# 📊 Google Sheets Order Tracker
 
 A structured multi-tab spreadsheet system for tracking customer orders, payments, and fulfillment.
 
-## Features
+## ✅ Features
+
 - Auto-calculated totals (Quantity × Price)
 - Dropdowns for Payment Status
 - Conditional formatting (Paid / Unpaid)
 - Client-facing layout
 
-## How to Run
+## ▶️ How to Run
+
 ```bash
 python order_tracker.py
 ```
 
-## Files
+## 📁 Files
+
 - sample_data.csv
 - order_tracker.py
 - order_summary_cleaned.csv
+- example.png (UI preview)
+
+## 📸 Preview
+
+![example](example.png)
